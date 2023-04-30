@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/i1"
+        android:title="Click me to see sub-menu"
+        android:icon="@mipmap/ic_launcher" >
+
+        <!-- "item" submenu -->
+        <menu>
+            <item android:id="@+id/i2"
+                android:title="subitem 1"
+                android:icon="@mipmap/ic_launcher"/>
+            <item android:id="@+id/i3"
+                android:title="subitem 2"
+                android:icon="@mipmap/ic_launcher" />
+        </menu>
+    </item>
+</menu>
