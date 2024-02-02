@@ -15,37 +15,7 @@ This repository contains multiple Android Studio projects implemented in Java. E
 1. **Appointment App**
    #### Desription:
     The appointment app is designed to streamline the process of scheduling, managing, and tracking appointments for users. It provides a user-friendly interface that allows individuals or businesses to organize their appointments, ensuring a smooth and organized schedule.
-   #### Key Features
-
-- **User Authentication:** Secure user accounts and login functionality.
-
-- **Appointment Booking:** Schedule appointments by selecting date, time, and service/provider.
-
-- **Service/Provider Selection:** Choose specific services or providers for appointments.
-
-- **Appointment Reminders:** Automated notifications or emails for upcoming appointments.
-
-- **Calendar Integration:** Sync with device calendar for a unified schedule view.
-
-- **Cancel/Reschedule:** Flexibility to cancel or reschedule appointments.
-
-- **Profile Management:** User profiles with personal information, preferences, and notification settings.
-
-- **History and Analytics:** Track past appointments and provide analytics on usage patterns.
-
-- **Search and Filters:** Find services/providers with search and filtering options.
-
-- **Feedback and Ratings:** Users can leave feedback and ratings for services/providers.
-
-- **Admin Panel:** Backend panel for businesses to manage appointments and view analytics.
-
-- **Multi-language Support:** App supports multiple languages for a diverse user base.
-
-- **Offline Mode:** View and make basic changes to appointments even when offline, with synchronization.
-
-- **Security:** Implement secure authentication protocols for user data protection.
-
-- **Responsive Design:** Ensure compatibility with various screen sizes and resolutions. 
+  
   
 
 2. **Project Name 2**
