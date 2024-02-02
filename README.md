@@ -59,6 +59,19 @@ This repository contains multiple Android Studio projects implemented in Java. E
 
 To run any of the projects locally, follow these steps:
 
+### Prerequisites
+
+- Android Studio installed
+- An Android device or emulator
+
+### Open the project in Android Studio.
+
+- Launch Android Studio.
+- Click on "File" in the top menu.
+- Select "Open" and navigate to the location where you cloned the repository.
+- Choose the your-appointment-app directory and click "OK."
+- Build and run the app on an Android device or emulator.
+
 1. Clone the repository:
 
    ```bash
@@ -69,7 +82,7 @@ Open the desired project folder in Android Studio:
 cd android-studio-projects/ProjectName
 ```
 
-- Build and run the project using Android Studio.
+
 
 ## Contributing
 If you'd like to contribute to this repository, follow these steps:
