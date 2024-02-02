@@ -1,4 +1,4 @@
-# Your Appointment App Name
+#  Appointment App 
 
 ## Overview
 
@@ -19,6 +19,14 @@ Your Appointment App Name is a mobile application developed for Android devices 
 - Android Studio installed
 - An Android device or emulator
 
+### Open the project in Android Studio.
+
+- Launch Android Studio.
+- Click on "File" in the top menu.
+- Select "Open" and navigate to the location where you cloned the repository.
+- Choose the your-appointment-app directory and click "OK."
+- Build and run the app on an Android device or emulator.
+
 ### Installation
 
 1. Clone the repository:
@@ -26,9 +34,8 @@ Your Appointment App Name is a mobile application developed for Android devices 
    git clone https://github.com/your-username/your-appointment-app.git
    
    ```
-- Open the project in Android Studio.
 
-- Build and run the app on an Android device or emulator.
+
 
 
 ## Usage
