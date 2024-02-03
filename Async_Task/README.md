@@ -12,16 +12,27 @@ Your AsyncTask App Name is an Android application developed with Android Studio 
 
 ## Getting Started
 
+To run any of the projects locally, follow these steps:
+
 ### Prerequisites
 
 - Android Studio installed
-- Android device or emulator
+- An Android device or emulator
+
+### Open the project in Android Studio.
+
+- Launch Android Studio.
+- Click on "File" in the top menu.
+- Select "Open" and navigate to the location where you cloned the repository.
+- Choose the your-appointment-app directory and click "OK."
+- Build and run the app on an Android device or emulator.
+
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-asynctask-app.git
+   git clone https://github.com/neerajcodes888/Async_Task.git
    ```
 ## Usage
 - Launch the app on your device.
