@@ -1,5 +1,7 @@
 # Android Studio Projects
 
+![Android-Projects](https://socialify.git.ci/neerajcodes888/Android-Projects/image?description=1&descriptionEditable=%20Explore%20diverse%20Android%20Studio%20projects%20showcasing%20Java%20based%20solutions%20for%20mobile%20app%20development&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+
 This repository contains multiple Android Studio projects implemented in Java. Each project is designed to showcase various features, concepts, or functionality.
 
 ## Table of Contents
